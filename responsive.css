@@ -1,0 +1,175 @@
+@media screen and (max-width: 1620px) {
+    .header {padding: 10px 200px;}
+    .about-content, .services, .portfolio, .reviews, .blog {margin: 0 150px; padding-top: 60px;}
+    .skills, .resume, .contact {padding: 60px 150px;}
+    .social-button {bottom: 10px; padding-left: 12px; left: 260px;}
+    .about-main {margin-left: 30px;}    .experience h2 {font-size: 28px;}
+    .portfolio-btn {margin-left: 40%;}
+    .blog-img {margin-left: 20px; margin-right: 20px;}
+    .blog-img h4 {margin-bottom: 10px;}
+}
+@media screen and (max-width: 1120px) {
+    header {padding: 3px 20px; position: fixed; background-color: rgba(7, 13, 27); width: 97%; z-index: 99;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 50px;}
+    .skills, .resume, .contact {padding: 60px 10px;}
+    .hero {margin-top: 60px;}
+    .hero-text {margin-top: 80px;}
+    .ht2 {font-size: 55px; line-height: 70px; margin: 15px 10px 15px 0;}
+    .ht3 {font-size: 30px; margin-bottom: 70px;}
+    .social-button {bottom: 10px; padding-left: 12px; left: 53px; bottom: -40px; width: 350px;}
+    .hero-button {margin-bottom: 70px;}
+    .sh2 {display: none;}
+    .about-main {margin-left: 30px;}
+    .skills-header {margin: 10px 0;}
+    .skills-text h2 {font-size: 25px;}
+    .experience {margin-top: 15px;}
+    .experience h2 {font-size: 28px;}
+    .senior {margin-left: 20px; margin-right: 20px;}
+    .senior h3 {font-size: 20px;}
+    .portfolio-header {margin-top: 30px;}
+    .portfolio-btn {margin-left: 35%;}
+    .blog-img {margin-left: 20px;}
+    .blog-img h4 {margin-bottom: 10px;}
+    .contact-col {margin: 30px 20px}
+    .st2 {font-size: 18px;}
+    .social-button2 {border: none; padding-left: 0px; background-color: rgba(7, 13, 27, 0.007);}
+    .foot-container {padding: 0 10px;}
+    .trademark {font-size: 15px; margin: 10px 10px;}
+}
+@media screen and (max-width: 878px) {
+    header {padding: 3px 20px; position: fixed; background-color: rgba(7, 13, 27); z-index: 99;}
+    .top-menu {display: none;}
+    .nav-menu {display: inline-block;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 80px;}
+    .skills, .resume, .contact {padding: 60px 10px;}
+    .hero-text {margin-top: 120px;}
+    .ht2 {font-size: 55px; line-height: 70px; margin: 15px 10px 15px 0;}
+    .ht3 {font-size: 30px; margin-bottom: 70px;}
+    .social-button {display: none;}
+    .hero-img {display: contents;}
+    .hero-button {margin-bottom: 70px;}
+    .sh2 {display: none;}
+    .about-content {display: block;}
+    .skills-header {margin: 10px 0;}
+    .skills-text h2 {font-size: 25px;}
+    .experience {margin-top: 15px;}
+    .experience h2 {font-size: 28px;}
+    .senior {margin-left: 20px; margin-right: 20px;}
+    .senior h3 {font-size: 20px;}
+    .portfolio-header {margin-top: 30px;}
+    .portfolio-btn {margin-left: 35%;}
+    .blog-img h4 {margin-bottom: 10px;}
+    .contact-col {margin: 30px 20px}
+    .st2 {font-size: 18px;}
+    .social-button2 {border: none; padding-left: 0px; background-color: rgba(7, 13, 27, 0.007);}
+    .foot-container {padding: 0 10px;}
+    .trademark {font-size: 15px; margin: 10px 10px;}
+    .timeline-wrap::after {top: 95px; height: 860px;}
+    .timeline2 {margin-left: 30px;}
+    .timeline2::before {left: -23px;}
+}
+@media screen and (max-width: 768px) {
+    .timeline-wrap::after {top: 85px; height: 860px;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 30px;}
+    .skills, .resume, .contact {padding: 40px 5px;}
+    .about-content {display: flex;}
+    .about-image {height: 500px; width: 700px;}
+    .services-container {flex-wrap: wrap;}
+    .container {flex: 25%;}  
+    .about-header {margin-bottom: -20px;}
+    .blog-news {flex-wrap: nowrap;}
+    .blog-img, .zoom {width: 200px;}    
+}    
+@media screen and (max-width: 575px) {
+    header {padding: 3px 20px; position: fixed; background-color: rgba(7, 13, 27); z-index: 99;}
+    .top-menu {display: none;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 40px;}
+    .skills, .resume, .contact {padding: 40px 10px;}
+    .hero-text {margin-top: 120px;}
+    .ht2 {font-size: 55px; line-height: 70px; margin: 15px 0 15px 0;}
+    .ht3 {font-size: 30px; margin-bottom: 70px;}
+    .social-button {display: none;}
+    .hero-img {display: none;}
+    .hero-button {margin-bottom: 70px;}
+    .sh2 {display: none;}
+    .about-content {display: block;}
+    .skills-header {margin: 10px 0;}
+    .skills-content {display: block;}
+    .skills-text h2 {font-size: 25px;}
+    .resume-row {display: block;}
+    .resume-header {margin-bottom: -50px;}
+    .experience {margin-top: 85px;}
+    .experience h2 {font-size: 28px;}
+    .senior {margin-left: 20px; margin-right: 20px;}
+    .senior h3 {font-size: 20px;}
+    .portfolio-header {margin-top: 30px;}
+    .portfolio-img {display: block;}
+    .portfolio-btn {margin-left: 15%;}
+    .blog-news {display: block;}
+    .blog-img h4 {margin-bottom: 10px;}
+    .contact-row {display: block;}
+    .contact-col {margin: 30px 20px}
+    .st2 {font-size: 18px;}
+    .social-button2 {border: none; padding-left: 0px; background-color: rgba(7, 13, 27, 0.007);}
+    .foot-container {padding: 0 10px;}
+    .trademark {font-size: 15px; margin: 10px 10px;}
+    .timeline-wrap::after {top: 85px; height: 770px;}
+    .timeline2 {margin-left: 30px;}
+    .timeline2::before {left: -23px;}
+}
+@media screen and (max-width: 425px) {
+    .timeline-wrap::after {top: 85px; height: 860px;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 10px;}
+    .skills, .resume, .contact {padding: 20px 5px;}
+    .services-container {flex-wrap: wrap;}
+    .container {flex: 50%;}  
+    .about-header {margin-bottom: -20px;}
+    .blog-img, .zoom {width: 370px;}    
+}    
+@media screen and (max-width: 375px) {
+    .timeline-wrap::after {top: 85px; height: 860px;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 5px;}
+    .skills, .resume, .contact {padding: 20px 5px;}
+    .services-container {flex-wrap: wrap;}
+    .container {flex: 50%;}  
+}    
+@media screen and (max-width: 320px) {
+    header {padding: 3px 20px; position: fixed; background-color: rgba(7, 13, 27); z-index: 99;}
+    .top-menu {display: none;}
+    .hero, .about-content, .services, .portfolio, .reviews, .blog {margin: 0 5px;}
+    .skills, .resume, .contact {padding: 20px 5px;}
+    .hero-text {margin-top: 120px;}
+    .ht2 {font-size: 55px; line-height: 70px; margin: 15px 0 25px 0;}
+    .ht3 {font-size: 30px; margin-bottom: 70px;}
+    .social-button {display: none;}
+    .hero-img {display: none;}
+    .hero-button {margin-bottom: 70px;}
+    .sh2 {display: none;}
+    .about-header {margin-bottom: -30px;}
+    .about-content {display: block;}
+    .about-image {max-height: 300px;}
+    .skills-header {margin: 10px 0;}
+    .skills-content {display: block;}
+    .skills-text h2 {font-size: 25px;}
+    .resume-row {display: block;}
+    .resume-header {margin-bottom: 30px;}
+    .experience {margin-top: 25px;}
+    .experience h2 {font-size: 28px;}
+    .senior {margin-left: 20px; margin-right: 20px;}
+    .senior h3 {font-size: 20px;}
+    .portfolio-header {margin-top: 30px;}
+    .portfolio-img {display: block;}
+    .portfolio-btn {margin-left: 15%;}
+    .blog-img, .zoom {width: 270px;}    
+    .blog-news {display: block;}
+    .blog-img h4 {margin-bottom: 10px;}
+    .contact-row {display: block;}
+    .contact-col {margin: 30px 20px}
+    .st2 {font-size: 18px;}
+    .social-button2 {border: none; padding-left: 0px; background-color: rgba(7, 13, 27, 0.007);}
+    .foot-container {padding: 0 10px;}
+    .trademark {font-size: 15px; margin: 10px 10px;}
+    .timeline-wrap::after {top: 85px; height: 1000px;}
+    .timeline2 {margin-left: 30px;}
+    .timeline2::before {left: -23px;}
+}
