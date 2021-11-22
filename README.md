@@ -2,7 +2,7 @@
 
 Welcome to my portfolio
 
-##Biodata
+#Biodata
 
 Name:
 Tella Boluwatife
